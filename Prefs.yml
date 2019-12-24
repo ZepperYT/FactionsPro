@@ -15,7 +15,7 @@ TheDefaultPowerEveryFactionStartsWith: 0
 EnableOverClaim: true
 OverClaimCostsPower: false
 AllyLimitPerFaction: 7
-ClaimWorlds: []
+ClaimWorlds: [Bedrock level]
 AllowChat: true
 AllowFactionPvp: false
 AllowAlliedPvp: false
